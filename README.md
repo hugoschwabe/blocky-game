@@ -54,7 +54,6 @@
   </section>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 * Clone the repository
@@ -72,8 +71,6 @@
 ## License
 
 Distributed under the MIT license. See `LICENSE` for more information.
-
-
 
 
 <!-- CONTACT -->
